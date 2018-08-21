@@ -1,0 +1,1 @@
+mwse.log("Successful test")

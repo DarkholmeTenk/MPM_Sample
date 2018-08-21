@@ -1,0 +1,8 @@
+{
+    "name": "Darkcraft Sample",
+    "version": "0.1",
+    "desc": "This mod does absolutely nothing other than test the MPM system",
+    "installDir": "mods/sample",
+    "category": "util",
+    "deps": []
+}
